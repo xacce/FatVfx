@@ -1,0 +1,25 @@
+{
+  "name": "com.xacce.fatvfx",
+  "rootNamespace": "FatVfx",
+  "references": [
+    "Unity.Entities",
+    "Unity.Entities.Hybrid",
+    "Unity.Collections",
+    "Unity.Mathematics",
+    "Unity.Physics.Custom",
+    "Unity.Physics",
+    "Unity.Physics.Hybrid",
+    "Unity.InputSystem",
+    "Unity.Burst",
+    "Unity.Transforms"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
